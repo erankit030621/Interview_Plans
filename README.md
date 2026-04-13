@@ -90,6 +90,6 @@ npm run dev
 
 ## Author
 - **Name:** Ankit Jayswal
-- **GitHub:** https://github.com/ankit-jayswal
+- **GitHub:** https://github.com/erankit030621
 - **LinkedIn:** https://www.linkedin.com/in/erankit030621/
 - **Portfolio:** https://port-folio-theta-plum.vercel.app/
