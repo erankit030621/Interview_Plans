@@ -30,7 +30,7 @@ This application demonstrates how AI can enhance the support experience by inter
 ## Installation Guide
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ankit-jayswal/ai-powered-mern-web-app.git
+git clone https://github.com/erankit030621/Interview_Plans
 cd ai-powered-mern-web-app
 ```
 
